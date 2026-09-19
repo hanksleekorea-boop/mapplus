@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "project": "구글맵플러스",
+    "timestamp": "2026-09-19T15:16:15.044Z",
+    "version": "v3.4"
+  },
+  "engine_A_general": {
+    "domain_match": [
+      "구글맵 플러스",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "장소 북마크",
+      "경로 최적화",
+      "스트리트 뷰"
+    ]
+  },
+  "engine_B_commercial": {
+    "auth": "Google Login, GitHub OAuth, Email/PW",
+    "pwa": "Manifest, Service Worker, Offline Support",
+    "premium": "Freemium Tier setup"
+  },
+  "engine_C_collaboration": {
+    "shared_storage": "Cloud Sync, Local First",
+    "concurrent_editing": "CRDT, WebSocket sync",
+    "conflict_resolution": "Last-write-wins + manual merge"
+  }
+}
