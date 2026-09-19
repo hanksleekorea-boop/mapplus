@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "project": "구글맵플러스",
+    "timestamp": "2026-09-19T15:04:20.984Z",
+    "version": "v3.3"
+  },
+  "engine_A": {
+    "domain_match": [
+      "구글맵 플러스",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "장소 북마크",
+      "경로 최적화",
+      "스트리트 뷰"
+    ],
+    "market_size_estimate": "$10B+",
+    "core_problem_solved": "기존 지도를 넘어선 강력한 로케이션 인텔리전스."
+  }
+}
